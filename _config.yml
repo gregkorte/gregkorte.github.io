@@ -1,13 +1,11 @@
 # Site settings
-title: Greg Korte's Blog
+title: Greg Korte and other stuff
 email: example@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description:  > # this means to ignore newlines until "baseurl:"
+  This may or may not work. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregkorte.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: 
 github_username:  gregkorte
 highlighter: rouge
 
