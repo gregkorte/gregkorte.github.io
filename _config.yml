@@ -2,7 +2,7 @@
 title: Greg Korte
 email: gregmkorte@gmail.com
 description:  > # this means to ignore newlines until "baseurl:"
-  This may or may not work. 
+  This site was created to showcase my work, the processes I endure while learning my new craft and possibly a few ideas that may help you along your own journey into the world of development. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregkorte.github.io" # the base hostname & protocol for your site
 twitter_username: 
