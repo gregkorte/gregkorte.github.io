@@ -15,7 +15,7 @@ The folders that are highlighted are folders I created so that when someone brow
 
 After creating the folders I populated them with two files. In the instance of my portfolio, I named one portfolio.md and the other index.html. The portfolio.md file is to hold my markdown, and the index.html file is to act as a root for that particular folder so that clicking on the portfolio link pulls the index file.
 
-![Portfolio Root](/images/posts/portfolio_root_file.png)
+![Portfolio Root](/images/posts/portfolio_root_files.png)
 
 After making these corrections to the directory structure I was finally able to view all of my pages, and the URLs looked the way they should.
 
