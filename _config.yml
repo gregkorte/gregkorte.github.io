@@ -1,6 +1,6 @@
 # Site settings
-title: Greg Korte and other stuff
-email: example@example.com
+title: Greg Korte
+email: gregmkorte@gmail.com
 description:  > # this means to ignore newlines until "baseurl:"
   This may or may not work. 
 baseurl: "" # the subpath of your site, e.g. /blog/
