@@ -5,7 +5,8 @@ permalink: /
 ---
 
 <section>
-<p>Hi! My name is Greg Korte, and I have been designing and maintaining websites as a hobby since 2000. Recently, however, I have decided to learn how to design professionally. I am currently a student at the Nashville Software School, and I am looking forward to improving my design knowledge and programming skills and implementing those skills in the near future.</p>
+<p>Hi! My name is Greg Korte, and I have been designing and maintaining websites as a hobby since 2000. Recently, however, I have decided to learn how to design professionally. I am currently finishing up the Web Developer Bootcamp Program at Nashville Software School, and I am looking forward to implementing the skills I have acquired in HTML, CSS, Javascript, AngularJS, C#, Asp.Net MVC and JSON.</p>
+<p>As my growth in programming and design progresses I will keep this site up to date as to what my current and ongoing project work looks like. Kudos to NSS, as I am now officially on my way.</p>
 
 <nav>
 <ul>
